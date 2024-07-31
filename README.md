@@ -52,16 +52,6 @@ This project is a simple example of user registration, login, and logout functio
 - **Access the home page:** Once logged in, visit `/home` to see the welcome message.
 - **Logout:** Click the logout link to end your session.
 
-## 📂 Project Structure
-
-/flask_auth_app
-├── app.py # Main application file
-├── requirements.txt # Project dependencies
-└── templates # HTML templates
-├── login.html # Login page
-├── register.html # Registration page
-└── home.html # Home page
-
 
 ## 🛠️ Requirements
 
